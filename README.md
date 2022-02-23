@@ -1,3 +1,3 @@
 # background-generator
 
-Webpage for generating a two colour gradient background!
+Web based two colour generator for a gradient background!
